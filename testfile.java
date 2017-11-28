@@ -1,1 +1,3 @@
-testfile
+//testfile
+public class TestClass
+{}
